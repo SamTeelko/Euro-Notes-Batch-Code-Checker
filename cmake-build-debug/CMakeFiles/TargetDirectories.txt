@@ -1,0 +1,3 @@
+C:/Users/samte/OneDrive/Desktop/Git/Prog 2/Gruppe_Sch1B/blatt2/cmake-build-debug/CMakeFiles/blatt2.dir
+C:/Users/samte/OneDrive/Desktop/Git/Prog 2/Gruppe_Sch1B/blatt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/samte/OneDrive/Desktop/Git/Prog 2/Gruppe_Sch1B/blatt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
